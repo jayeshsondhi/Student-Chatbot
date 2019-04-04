@@ -1,0 +1,51 @@
+{
+  "id": "48a2f5ac-6d57-4c30-9c98-be5f03dd4a5b",
+  "name": "Opening Times: Alan Gilbert",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "13b4bae6-aca5-457c-b702-f1054da23a94",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "78ea969e-4ff9-4ed4-be5a-bc0598959155",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "name": "last-name",
+          "value": "$last-name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "The Alan Gilbert Learning Commons is open 24 hours 7 days a week"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551612245,
+  "fallbackIntent": false,
+  "events": []
+}

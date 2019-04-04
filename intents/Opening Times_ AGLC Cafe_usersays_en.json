@@ -1,0 +1,242 @@
+[
+  {
+    "id": "51b6027a-d9c2-4df6-a64c-87a5351c5fc8",
+    "data": [
+      {
+        "text": "Ali G Cafe opening hours?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551612292
+  },
+  {
+    "id": "5118f083-e34f-4274-bbab-ba23ffae0112",
+    "data": [
+      {
+        "text": "Alan",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Gilbert",
+        "alias": "last-name",
+        "meta": "@sys.last-name",
+        "userDefined": false
+      },
+      {
+        "text": " Cafe opening hours?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551612292
+  },
+  {
+    "id": "340d6da5-49ff-4f19-b535-e0275dd2e9c2",
+    "data": [
+      {
+        "text": "What are the opening times for the  ",
+        "userDefined": false
+      },
+      {
+        "text": "Alan",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Gilbert",
+        "alias": "last-name",
+        "meta": "@sys.last-name",
+        "userDefined": false
+      },
+      {
+        "text": " Learning Commons Cafe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551611900
+  },
+  {
+    "id": "ae0f5b09-95b5-4a79-9d82-48f0ac1730b0",
+    "data": [
+      {
+        "text": "What are the opening times for AGLC Cafe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551611900
+  },
+  {
+    "id": "b3fa8238-b924-4a06-8591-9d21b1e719d8",
+    "data": [
+      {
+        "text": "What are the opening times for the Ali G Cafe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551611900
+  },
+  {
+    "id": "b363c8bd-ce90-46e0-b6d2-2db593d2efa8",
+    "data": [
+      {
+        "text": "When Does Ali G cafe close?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551611900
+  },
+  {
+    "id": "78d8d409-6673-4a3a-b9b5-7dfa016c6d22",
+    "data": [
+      {
+        "text": "Is Ali G Cafe open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551611900
+  },
+  {
+    "id": "790f418f-34b9-48c2-a779-11c6cfdfefc1",
+    "data": [
+      {
+        "text": "When does AGLC cafe close",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551611900
+  },
+  {
+    "id": "af725f11-ef09-4175-bca9-2f8ceb4d7f1c",
+    "data": [
+      {
+        "text": "Is AGLC cafe open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551611900
+  },
+  {
+    "id": "eda98da8-302f-4a0d-8d60-cb3ee526ec7e",
+    "data": [
+      {
+        "text": "When does the ",
+        "userDefined": false
+      },
+      {
+        "text": "Alan",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Gilbert",
+        "alias": "last-name",
+        "meta": "@sys.last-name",
+        "userDefined": false
+      },
+      {
+        "text": " Learning Commons Cafe close?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551611900
+  },
+  {
+    "id": "9382732f-6faa-4fdb-80b7-fc370496b210",
+    "data": [
+      {
+        "text": "Is the ",
+        "userDefined": false
+      },
+      {
+        "text": "Alan",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Gilbert",
+        "alias": "last-name",
+        "meta": "@sys.last-name",
+        "userDefined": false
+      },
+      {
+        "text": " Learning Commons Cafe open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551611900
+  },
+  {
+    "id": "c1af8454-a7ae-4fc4-8c1a-56338957ca54",
+    "data": [
+      {
+        "text": "What time is the ",
+        "userDefined": false
+      },
+      {
+        "text": "Alan",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Gilbert",
+        "alias": "last-name",
+        "meta": "@sys.last-name",
+        "userDefined": false
+      },
+      {
+        "text": " Learning Commons Cafe open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551611900
+  }
+]

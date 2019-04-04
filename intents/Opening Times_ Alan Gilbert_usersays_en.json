@@ -1,0 +1,198 @@
+[
+  {
+    "id": "7cb8f3d3-f1d3-4566-8ba6-0977ba31ea2c",
+    "data": [
+      {
+        "text": "Alan",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Gilbert",
+        "alias": "last-name",
+        "meta": "@sys.last-name",
+        "userDefined": false
+      },
+      {
+        "text": " opening hours?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551612245
+  },
+  {
+    "id": "60f8432d-227c-4d9d-b8ec-f3df4030174f",
+    "data": [
+      {
+        "text": "Ali G opening Times?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551612211
+  },
+  {
+    "id": "af0d202d-94af-4eaf-b35a-39da99dab596",
+    "data": [
+      {
+        "text": "Ali G opening hours?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551612211
+  },
+  {
+    "id": "655fd1fe-0a93-4bf9-b3d9-068b2c8742df",
+    "data": [
+      {
+        "text": "When does AGLC Close?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551395899
+  },
+  {
+    "id": "2e060ab1-d9a1-425c-bbb3-9246a262db7a",
+    "data": [
+      {
+        "text": "Is AGLC open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551395899
+  },
+  {
+    "id": "10c474fc-feca-4545-9784-31f78ef06fb5",
+    "data": [
+      {
+        "text": "What time is Ali G open till today?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551395899
+  },
+  {
+    "id": "46d5ea88-f2f6-4d21-b50a-49d853dd0e07",
+    "data": [
+      {
+        "text": "When does Ali G close?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551395899
+  },
+  {
+    "id": "a9f3e967-7e79-44d0-b94a-4c5dff010f1a",
+    "data": [
+      {
+        "text": "Is Ali G open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551395899
+  },
+  {
+    "id": "8d5b634a-72ab-4a3b-a9f1-7d464ee33eb7",
+    "data": [
+      {
+        "text": "What time is Ali G open till?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551395899
+  },
+  {
+    "id": "ead4750a-9ca2-4f15-8960-c8b8d97325ec",
+    "data": [
+      {
+        "text": "Is ",
+        "userDefined": false
+      },
+      {
+        "text": "Alan",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Gilbert",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Learning Commons open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551395899
+  },
+  {
+    "id": "b6609034-3564-4fe8-85c2-194bb28072bf",
+    "data": [
+      {
+        "text": "When does ",
+        "userDefined": false
+      },
+      {
+        "text": "Alan",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Gilbert",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Learning Commons close?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551395899
+  },
+  {
+    "id": "c4a3601b-1854-46a8-bcb8-e946b0df4192",
+    "data": [
+      {
+        "text": "What time is the Alan Gilbert Learning Commons open till today?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551395498
+  }
+]

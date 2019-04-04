@@ -1,0 +1,40 @@
+{
+  "id": "65069245-7c10-40cd-9409-5642f14fc700",
+  "name": "Where is: Roscoe",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://pgrschoolofeducation.files.wordpress.com/2012/07/roscoe-building-number-53-image.png"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Roscoe Building is located on Oxford Road. Building 52 on the map indicates where the building is."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551704519,
+  "fallbackIntent": false,
+  "events": []
+}

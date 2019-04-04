@@ -1,0 +1,84 @@
+[
+  {
+    "id": "66976c43-6427-4249-8b76-f2f0e2a12adf",
+    "data": [
+      {
+        "text": "what is the quickest way to MBS?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551444182
+  },
+  {
+    "id": "a2b5a942-c421-489d-a8a8-016240d53a8e",
+    "data": [
+      {
+        "text": "How do I get to the business school",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551444182
+  },
+  {
+    "id": "c58cc19b-3610-42ad-a3ed-03694b88fe33",
+    "data": [
+      {
+        "text": "Where is MBS?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551444182
+  },
+  {
+    "id": "799d49ff-e75d-4491-800e-b4c1914e353f",
+    "data": [
+      {
+        "text": "Where is Alliance Manchester Business school",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551444182
+  },
+  {
+    "id": "1fa4845e-4a65-450a-a98e-bb16d88a5321",
+    "data": [
+      {
+        "text": "How do I get to ",
+        "userDefined": false
+      },
+      {
+        "text": "Manchester",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " Business School?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551444182
+  },
+  {
+    "id": "0ccf6fa1-9a66-4df0-946b-822b7eec30d6",
+    "data": [
+      {
+        "text": "Where is the Business School?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551443697
+  }
+]

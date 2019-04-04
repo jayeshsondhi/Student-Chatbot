@@ -1,0 +1,62 @@
+[
+  {
+    "id": "5f743e86-b81e-4741-ab75-f34f2ab8f49f",
+    "data": [
+      {
+        "text": "When does the medical school close?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551455227
+  },
+  {
+    "id": "f2002823-45c5-4b90-aaa3-ddb1e6b85e81",
+    "data": [
+      {
+        "text": "Is the medical school open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551455227
+  },
+  {
+    "id": "1dc7502c-5391-4420-bbb2-7dec79834c39",
+    "data": [
+      {
+        "text": "When does Stopford close?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551455227
+  },
+  {
+    "id": "f9f79bd0-d8ba-47ae-bed6-23389494170d",
+    "data": [
+      {
+        "text": "Is Stopford open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551455227
+  },
+  {
+    "id": "1116c81a-5b32-40c5-919a-e0a939e3e13e",
+    "data": [
+      {
+        "text": "What time does Stopford open till?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551455227
+  }
+]

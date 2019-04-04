@@ -1,0 +1,148 @@
+[
+  {
+    "id": "07ac0e77-07cc-47a0-8261-8fbac9d8bf61",
+    "data": [
+      {
+        "text": "Cafe ",
+        "userDefined": false
+      },
+      {
+        "text": "65",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " opening times?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551612324
+  },
+  {
+    "id": "7a57db63-40b0-4c3d-87d8-b53cbe1b89d8",
+    "data": [
+      {
+        "text": "Cafe ",
+        "userDefined": false
+      },
+      {
+        "text": "65",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " opening hours?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551612324
+  },
+  {
+    "id": "2c438155-828e-43e9-b855-d1b8f5f0b5fe",
+    "data": [
+      {
+        "text": "What time does the MBS Cafe close?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551610882
+  },
+  {
+    "id": "7c48afdd-2c85-4db8-822d-cf79b5bd2e8f",
+    "data": [
+      {
+        "text": "When does the business school cafe close",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551610625
+  },
+  {
+    "id": "6d408298-5997-4293-82f9-1a9f1d7d440d",
+    "data": [
+      {
+        "text": "Is the MBS cafe open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551610625
+  },
+  {
+    "id": "5a61f4b1-7f53-4f34-8889-883d3f9c55bf",
+    "data": [
+      {
+        "text": "When does Cafe ",
+        "userDefined": false
+      },
+      {
+        "text": "65",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551610625
+  },
+  {
+    "id": "eb4d0b7c-5540-4dce-adeb-2219f05e2591",
+    "data": [
+      {
+        "text": "Is Cafe ",
+        "userDefined": false
+      },
+      {
+        "text": "65",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551610625
+  },
+  {
+    "id": "1d3f1016-0b3f-4b2f-b675-43e2ff4c25c9",
+    "data": [
+      {
+        "text": "What time is Cafe ",
+        "userDefined": false
+      },
+      {
+        "text": "65",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " open till?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551610625
+  }
+]

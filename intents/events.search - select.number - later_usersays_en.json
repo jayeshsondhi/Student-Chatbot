@@ -1,0 +1,136 @@
+[
+  {
+    "id": "037410a2-72be-4afc-b9ed-99b9728ac310",
+    "data": [
+      {
+        "text": "ask me later",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8af5083c-c501-45b9-8438-a8637098c3df",
+    "data": [
+      {
+        "text": "later",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed3d872a-680f-437f-bc78-5f2b18da48b3",
+    "data": [
+      {
+        "text": "next time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4f49ab5-f06a-41e5-94fb-8df6a4794f07",
+    "data": [
+      {
+        "text": "not yet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cc87b2d9-216b-4d4b-a364-96604b1012d9",
+    "data": [
+      {
+        "text": "some other time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1bd6cb1f-1a41-4911-8c11-4bdb047703a9",
+    "data": [
+      {
+        "text": "not at the moment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eeb1fb7c-4b07-4542-aabc-8094cd70b3e9",
+    "data": [
+      {
+        "text": "do ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " later",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "69708929-2df5-4469-a688-dcadcea3a124",
+    "data": [
+      {
+        "text": "I said later",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4cd97e0c-745e-4a30-b9a4-9a90d453fe64",
+    "data": [
+      {
+        "text": "not ",
+        "userDefined": false
+      },
+      {
+        "text": "right now",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "475f4f8c-00fd-4a78-837b-f19aee5dc2d8",
+    "data": [
+      {
+        "text": "not at this time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

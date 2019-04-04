@@ -1,0 +1,34 @@
+{
+  "id": "4718c9de-5b25-4d13-976f-f77602c27c6b",
+  "name": "Opening Times: Kilburn",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "The Kilburn Building is open 8AM-6PM weekdays. This building is closed on weekends."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551455711,
+  "fallbackIntent": false,
+  "events": []
+}

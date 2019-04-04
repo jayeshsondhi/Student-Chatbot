@@ -1,0 +1,57 @@
+{
+  "id": "859e4f73-e056-491e-8a16-f4b56aced624",
+  "name": "Where is: Eddies Davies",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4f4a02bf-1219-4f2f-9e6d-61a724664433",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "bd7a2d95-68f4-4552-bf64-f495c7c57f68",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "name": "last-name",
+          "value": "$last-name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://pgrschoolofeducation.files.wordpress.com/2012/07/roscoe-building-number-53-image.png"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "The Eddie Davies Library is located on Booth Street West. Building 29 on the map indicates where the building is."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551445764,
+  "fallbackIntent": false,
+  "events": []
+}

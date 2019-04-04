@@ -1,0 +1,29 @@
+{
+  "id": "86918204-30aa-455d-9696-a1deac92f6fe",
+  "name": "smalltalk.agent.annoying",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.annoying",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Sorry to come across that way."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551617021,
+  "fallbackIntent": false,
+  "events": []
+}

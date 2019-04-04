@@ -1,0 +1,49 @@
+{
+  "id": "27b32a35-f296-40c5-8e90-8184970b7a4f",
+  "name": "Where is: Nearest Cafe",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b0cdd14f-8776-43ae-9435-8ae20292598b",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "http://www.foodoncampus.manchester.ac.uk/find-us/new-map-website-smaller.PNG"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Please see the campus map above to find your closest cafe on campus. Don\u0027t forget to register for the Food In Advance scheme to receive a 10% discount on all orders"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551613445,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,88 @@
+{
+  "id": "6742adc0-1590-408c-971e-5da4dcd29ee0",
+  "parentId": "8dbcc44f-2020-4b6c-a85b-3c3ad767f54c",
+  "rootParentId": "8dbcc44f-2020-4b6c-a85b-3c3ad767f54c",
+  "name": "events.search - book",
+  "auto": true,
+  "contexts": [
+    "eventssearch-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "events.book",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fb84b0ff-51a1-421b-99fa-f1aae455a6a1",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "amount",
+          "value": "$amount",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How many tickets do you need?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "abc36e82-12fe-42d3-b6a5-cfa3a5fb737f",
+          "name": "artist",
+          "value": "#eventssearch-followup.artist"
+        },
+        {
+          "id": "0f12f8f0-b6fc-4d66-b8df-b0da5d03d020",
+          "name": "date-time",
+          "value": "#eventssearch-followup.date-time"
+        },
+        {
+          "id": "61eeebc7-1e0c-47dc-90eb-f3b5c80d3d4a",
+          "name": "event-title",
+          "value": "#eventssearch-followup.event-title"
+        },
+        {
+          "id": "6754a5b6-923d-4554-a66e-00fbe7f2397c",
+          "name": "event-type",
+          "value": "#eventssearch-followup.event-type"
+        },
+        {
+          "id": "a7dc1a0f-017d-4460-974b-615493dfd0a6",
+          "name": "sort",
+          "value": "#eventssearch-followup.sort"
+        },
+        {
+          "id": "7cfa745d-c7df-4a29-854f-5922c08ba5f7",
+          "name": "music-genre",
+          "value": "#eventssearch-followup.music-genre"
+        },
+        {
+          "id": "c31b477d-ca2f-4409-89bf-a8b70f61681e",
+          "name": "location",
+          "value": "#eventssearch-followup.location"
+        },
+        {
+          "id": "416539d2-672e-49b0-bba0-a7a7ca077d9f",
+          "name": "team",
+          "value": "#eventssearch-followup.team"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I\u0027ve booked $amount tickets."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500312291890,
+  "fallbackIntent": false,
+  "events": []
+}

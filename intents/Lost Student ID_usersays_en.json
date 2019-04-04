@@ -1,0 +1,86 @@
+[
+  {
+    "id": "d10ee7f9-b3fa-4a29-b191-d08a347dbfc3",
+    "data": [
+      {
+        "text": "Replacement student card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551635835
+  },
+  {
+    "id": "9a9a9dc8-7177-4bdd-911e-df0ff6c952c6",
+    "data": [
+      {
+        "text": "Replacement student ID",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551635835
+  },
+  {
+    "id": "4c058bf8-85ab-4a45-affa-e6cf0ea16c3d",
+    "data": [
+      {
+        "text": "I\u0027ve lost my student card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551635835
+  },
+  {
+    "id": "0c032e1c-1155-478e-ac1f-536649dad8db",
+    "data": [
+      {
+        "text": "I\u0027ve lost my ID",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551635835
+  },
+  {
+    "id": "47996af1-2894-4ca4-87f3-a7616f5db1d7",
+    "data": [
+      {
+        "text": "How do I get a new student ID",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551635835
+  },
+  {
+    "id": "040bd393-dbbc-4d43-8a2d-1a7d87a1da64",
+    "data": [
+      {
+        "text": "Lost my student ID",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551635835
+  },
+  {
+    "id": "bf59dd09-5a26-40e5-9a85-0d130846ce7c",
+    "data": [
+      {
+        "text": "I have lost my student ID",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551635835
+  }
+]

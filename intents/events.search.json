@@ -1,0 +1,126 @@
+{
+  "id": "8dbcc44f-2020-4b6c-a85b-3c3ad767f54c",
+  "name": "events.search",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "events.search",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2f0d595b-1130-4a1b-89c0-0e7cffffde45",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "At what location?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "36262db1-d96b-415d-bc92-0aa8c6539394",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "For what date/time?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "3c7f7e2d-725c-48f4-848a-1c772d2e14fa",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "amount",
+          "value": "$amount",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How many of you are going?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "65149fc3-8333-4315-9d67-147918e6c84b",
+          "required": false,
+          "dataType": "@sys.music-artist",
+          "name": "artist",
+          "value": "$artist",
+          "isList": false
+        },
+        {
+          "id": "780627f4-19bd-4334-afb1-4d9f4289c506",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "event-title",
+          "value": "$event-title",
+          "isList": false
+        },
+        {
+          "id": "f3953005-d730-4303-ae53-f89460b62b20",
+          "required": false,
+          "dataType": "@event-type",
+          "name": "event-type",
+          "value": "$event-type",
+          "isList": false
+        },
+        {
+          "id": "70e67262-1454-4231-be1c-487f93487d83",
+          "required": false,
+          "dataType": "@map-sort",
+          "name": "sort",
+          "value": "$sort",
+          "isList": true
+        },
+        {
+          "id": "bc2a5695-18b2-41d3-a5d5-879c2a62d9ca",
+          "required": false,
+          "dataType": "@sys.music-genre",
+          "name": "music-genre",
+          "value": "$music-genre",
+          "isList": false
+        },
+        {
+          "id": "517da047-db86-4fae-a886-4812d1ead671",
+          "required": false,
+          "dataType": "@sport-team",
+          "name": "team",
+          "value": "$team",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "To view all the events happening on campus please see the website - https://manchesterstudentsunion.com/events"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551624292,
+  "fallbackIntent": false,
+  "events": []
+}

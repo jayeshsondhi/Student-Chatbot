@@ -1,0 +1,34 @@
+{
+  "id": "e5799d08-0e35-43f4-847f-f3c7764ab4ab",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I didn\u0027t get that. Please click this link to speak to a student ambassador https://www.example.com/",
+            "I missed what you said. Please click this link to speak to a student ambassador https://www.example.com/",
+            "Sorry, I didn\u0027t get that. Can you rephrase?",
+            "Sorry, what was that? Please click this link to speak to a student ambassador https://www.example.com/"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536142379,
+  "fallbackIntent": true,
+  "events": []
+}

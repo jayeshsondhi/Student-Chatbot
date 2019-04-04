@@ -1,0 +1,5972 @@
+[
+  {
+    "id": "92d66dc7-6007-4460-8358-ab95ba7ee5f2",
+    "data": [
+      {
+        "text": "Anything to keep me busy at uni?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551621652
+  },
+  {
+    "id": "c58e4038-a8b0-4c87-85f8-5ddf826e8179",
+    "data": [
+      {
+        "text": "What is happening on campus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551621652
+  },
+  {
+    "id": "5f04684d-28d9-4fd5-afa4-493609584239",
+    "data": [
+      {
+        "text": "Any society events?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551621652
+  },
+  {
+    "id": "c7257684-3da9-40ed-b540-4457f9f0961f",
+    "data": [
+      {
+        "text": "When is the next social?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551621652
+  },
+  {
+    "id": "8b863639-249c-446b-a3be-890c56c9c1fb",
+    "data": [
+      {
+        "text": "Are there any events happening on campus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551621652
+  },
+  {
+    "id": "6c4a9265-2796-425f-9941-bd355abc5ea3",
+    "data": [
+      {
+        "text": "What society events are happening on campus?W",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551621652
+  },
+  {
+    "id": "edd4a3cd-d01e-4ea2-b5bd-f7f9d6bf17f5",
+    "data": [
+      {
+        "text": "find me ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " tickets to ",
+        "userDefined": false
+      },
+      {
+        "text": "Madonna\u0027s",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "concert",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551621652
+  },
+  {
+    "id": "16d4077b-adb5-4d5c-9d40-f012db35c703",
+    "data": [
+      {
+        "text": "what\u0027s playing at the ",
+        "userDefined": false
+      },
+      {
+        "text": "movies",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "September 17th",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551621652
+  },
+  {
+    "id": "5b9bee49-ed7f-4478-9d4c-e9059147b82d",
+    "data": [
+      {
+        "text": "search for ",
+        "userDefined": false
+      },
+      {
+        "text": "Chicago Bulls",
+        "alias": "team",
+        "meta": "@sport-team",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "next week",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Chicago",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551621652
+  },
+  {
+    "id": "7173d52b-6bf4-41a5-93f2-edf7e68ae86f",
+    "data": [
+      {
+        "text": "where is ",
+        "userDefined": false
+      },
+      {
+        "text": "Big Data",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": true
+      },
+      {
+        "text": " playing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551621652
+  },
+  {
+    "id": "f9c9426b-3b76-486e-b1e1-55c355e96316",
+    "data": [
+      {
+        "text": "please show all the events in ",
+        "userDefined": false
+      },
+      {
+        "text": "Paris",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551621652
+  },
+  {
+    "id": "6f6554a6-8a3d-49ed-bf6c-16e639fea24b",
+    "data": [
+      {
+        "text": "I\u0027d love to listen to some ",
+        "userDefined": false
+      },
+      {
+        "text": "jazz",
+        "alias": "music-genre",
+        "meta": "@sys.music-genre",
+        "userDefined": false
+      },
+      {
+        "text": " performances in ",
+        "userDefined": false
+      },
+      {
+        "text": "California",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "next Sunday",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1551621652
+  },
+  {
+    "id": "0ffbb031-a622-4ea7-a1d3-86a72523911c",
+    "data": [
+      {
+        "text": "any ",
+        "userDefined": false
+      },
+      {
+        "text": "rock concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "weekends",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "near",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Palo Alto",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1551621652
+  },
+  {
+    "id": "e4ec149a-6878-4d75-8893-c0f0d0152b2c",
+    "data": [
+      {
+        "text": "events at ",
+        "userDefined": false
+      },
+      {
+        "text": "Madison Square garden",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551621652
+  },
+  {
+    "id": "43d064af-f921-43d3-a4f3-ed0e40ab13c3",
+    "data": [
+      {
+        "text": "exhibition",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Legion of Honor",
+        "alias": "event-title",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "San Francisco museum",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551621652
+  },
+  {
+    "id": "dadf02d9-a563-477a-801c-1b45719cfa8d",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "upcoming",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e10147ec-3b57-4687-a858-ccf5e91e90a5",
+    "data": [
+      {
+        "text": "what time is the ",
+        "userDefined": false
+      },
+      {
+        "text": "next",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Teenage Mutant Ninja Turtle",
+        "alias": "event-title",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "movie",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "091b7a93-f62d-4ca7-b664-363edc2c9057",
+    "data": [
+      {
+        "text": "search upcoming ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Michigan",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ee8451e-b505-4044-98f7-b9ed22996488",
+    "data": [
+      {
+        "text": "movies in the Park",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Albuquerque New Mexico",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "21245330-3294-4362-baf7-a24620ab58c2",
+    "data": [
+      {
+        "text": "find me ",
+        "userDefined": false
+      },
+      {
+        "text": "Big Sean",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "Bethel Woods Center for the Arts",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "next week",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "6fb299fc-87a4-47c9-a8d4-6ba6bc933d89",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "exhibitions",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Edinburgh",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42e8137d-4f73-468f-bdb8-e34b46e02bc5",
+    "data": [
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "May 14th at 7 pm",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89af261d-2707-460a-a84c-cc8b58e441bc",
+    "data": [
+      {
+        "text": "today",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Czech Republic",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aaddf235-d2e8-44a5-b7db-05185d6fbce2",
+    "data": [
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " there ",
+        "userDefined": false
+      },
+      {
+        "text": "any",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " in town ",
+        "userDefined": false
+      },
+      {
+        "text": "this week",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aeb6ba8d-a9d4-48f4-9210-6aae748467bc",
+    "data": [
+      {
+        "text": "what",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "movies",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " playing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "21976c53-95da-47f4-a57b-c9e3430fa468",
+    "data": [
+      {
+        "text": "movies",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6dbb3d4c-d7eb-4cb8-a058-d7b0d182dea3",
+    "data": [
+      {
+        "text": "I want to see a ",
+        "userDefined": false
+      },
+      {
+        "text": "play",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ce22c718-19d9-45b1-a94a-32ff6e13e352",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "rock concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Los Angeles",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d6541a5d-36df-49d2-881f-6e58e207f4b5",
+    "data": [
+      {
+        "text": "events for ",
+        "userDefined": false
+      },
+      {
+        "text": "August 30th",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "411eca83-043f-4cf5-9dce-a703234d9b78",
+    "data": [
+      {
+        "text": "search",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "upcoming",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Michigan",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "6144b154-dbed-4ccc-9194-9d2c60c26f93",
+    "data": [
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " there ",
+        "userDefined": false
+      },
+      {
+        "text": "any",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " going ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "this weekend",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "near me",
+        "alias": "sort",
+        "meta": "@map-sort",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98d4a3e8-634a-41fd-afbc-391b7c72c54a",
+    "data": [
+      {
+        "text": "show me ",
+        "userDefined": false
+      },
+      {
+        "text": "Bon Jovi",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "Irving Plaza NY",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "May",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "96bf4dcf-beef-43f9-965b-c377c65a1b29",
+    "data": [
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "tonight",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2cc0ceac-1f8d-4a7c-94c5-ad98348247f6",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " playing in the ",
+        "userDefined": false
+      },
+      {
+        "text": "South Carolina",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "051b9d8d-24c1-4b10-a03c-f85fb941747c",
+    "data": [
+      {
+        "text": "art exhibitions",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "San Francisco",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "this week",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6473c79a-68c2-4430-92ea-d3829ae267b7",
+    "data": [
+      {
+        "text": "Adele",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "next week",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Durham",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c0a60459-b41a-4919-9773-ee2ad79feab1",
+    "data": [
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " you look ",
+        "userDefined": false
+      },
+      {
+        "text": "up",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "internet",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " when is the next ",
+        "userDefined": false
+      },
+      {
+        "text": "One Direction",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "concert",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03fc6850-245c-443c-b1d2-ca64c0656e81",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Bruno Mars",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Las Vegas",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "302f9e2f-30ad-4d9c-b745-83ef7d540aca",
+    "data": [
+      {
+        "text": "art exhibitions",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Delhi",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44961d38-d3f3-4ca5-b305-6c24c9ea4d0b",
+    "data": [
+      {
+        "text": "when is ",
+        "userDefined": false
+      },
+      {
+        "text": "Bruno Mars",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " coming to ",
+        "userDefined": false
+      },
+      {
+        "text": "Raleigh",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8bec5933-f39c-49ef-aa6c-6416b9e81c85",
+    "data": [
+      {
+        "text": "any",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "alias": "sort",
+        "meta": "@map-sort",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " in the city ",
+        "userDefined": false
+      },
+      {
+        "text": "tonight",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf8221df-c251-4b04-9af3-14fdd9083202",
+    "data": [
+      {
+        "text": "what\u0027s",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " going ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tonight",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portsmouth New Hampshir",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b250ad74-08a6-43ed-a109-cd56da8d1da7",
+    "data": [
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " there ",
+        "userDefined": false
+      },
+      {
+        "text": "any",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Colorado",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "681c1f07-b2d3-4172-a09d-90c7b7b0e097",
+    "data": [
+      {
+        "text": "I\u0027m in the mood for some ",
+        "userDefined": false
+      },
+      {
+        "text": "jazz",
+        "alias": "music-genre",
+        "meta": "@sys.music-genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "273091b7-c2b0-4467-89af-addab8e47721",
+    "data": [
+      {
+        "text": "any",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "right now",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "96d430ce-1e24-44b6-847e-ed7a483b8c47",
+    "data": [
+      {
+        "text": "find me ",
+        "userDefined": false
+      },
+      {
+        "text": "Taylor Swift",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Saratoga Springs",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Thursday",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "cd2bac75-9986-43a4-b923-72730500c1f1",
+    "data": [
+      {
+        "text": "what to do in ",
+        "userDefined": false
+      },
+      {
+        "text": "Boston",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a85f06c7-3918-467f-a786-459a5506166f",
+    "data": [
+      {
+        "text": "what shows are playing in ",
+        "userDefined": false
+      },
+      {
+        "text": "Hamilton Maryland",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "983b2469-1ae9-46b0-bb41-86c0b2c7f667",
+    "data": [
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "Hudson gardens",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "502a93d0-d62a-41a9-87cc-7af635f64e4c",
+    "data": [
+      {
+        "text": "upcoming",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "99bcf0f5-56de-4ba8-a259-47a655261ba4",
+    "data": [
+      {
+        "text": "check the event ",
+        "userDefined": false
+      },
+      {
+        "text": "Dance Of The Vampires",
+        "alias": "event-title",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Moscow",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0144168c-e05d-43b5-9eb8-b08a95d1a90e",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "festivals",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " coming ",
+        "userDefined": false
+      },
+      {
+        "text": "tonight",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "af2a8997-125f-4efc-b3ae-3f647b848a0f",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "movies",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " are playing ",
+        "userDefined": false
+      },
+      {
+        "text": "this evening",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "57dcd5fc-e67b-49d5-8fc9-31eb459e0b40",
+    "data": [
+      {
+        "text": "jazz",
+        "alias": "music-genre",
+        "meta": "@sys.music-genre",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Mississippi",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tonight",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ebfa1f9d-a627-4b76-b906-b68997182d01",
+    "data": [
+      {
+        "text": "band concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Newport",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b17f51c-6385-482b-9b61-8789947fcc00",
+    "data": [
+      {
+        "text": "how about upcoming ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "Red Rocks Amphitheatre",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3518e647-fe7f-45ab-b9c1-27f2890b88ce",
+    "data": [
+      {
+        "text": "festivals",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Key West",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "July",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3bc1b56b-0cd1-4838-b1d2-fc4c8b5d39c2",
+    "data": [
+      {
+        "text": "who is playing at",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Irving Plaza",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "next Friday",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "79d2ec04-9d70-4de7-bf15-536b4c522577",
+    "data": [
+      {
+        "text": "any ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "NY",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c2682c5-090b-463a-9a2f-38eff2f639e0",
+    "data": [
+      {
+        "text": "pull ",
+        "userDefined": false
+      },
+      {
+        "text": "up",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "movie",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " listings for ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "local",
+        "alias": "sort",
+        "meta": "@map-sort",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "theater",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 10,
+    "updated": 0
+  },
+  {
+    "id": "b2384dbb-d54c-49ff-90be-8144d92d7878",
+    "data": [
+      {
+        "text": "search ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26e2cba3-d62e-41be-a49f-18918e70976a",
+    "data": [
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Tarragona",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "August",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25eb53cd-d144-4f87-8173-1b796a782e7b",
+    "data": [
+      {
+        "text": "new",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "movies for kids",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "0f14cac6-4c54-4151-82e4-32c4bd6ac4f6",
+    "data": [
+      {
+        "text": "is ",
+        "userDefined": false
+      },
+      {
+        "text": "Madonna",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": true
+      },
+      {
+        "text": " playing in ",
+        "userDefined": false
+      },
+      {
+        "text": "Moscow",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb185114-c81e-4228-bafd-e3e5da64cf86",
+    "data": [
+      {
+        "text": "what time is ",
+        "userDefined": false
+      },
+      {
+        "text": "Ariana Grande",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s show ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d742bdd0-c610-4e29-a6c9-44f1e8cddf68",
+    "data": [
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "Mindless Behavior",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "137c6e6e-506c-4db5-936f-61ddf9438df1",
+    "data": [
+      {
+        "text": "Frank Ocean",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tonight",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "New York at Madison Square Garden",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "cb916988-884f-4a3d-85aa-f9f35588b23f",
+    "data": [
+      {
+        "text": "find me ",
+        "userDefined": false
+      },
+      {
+        "text": "club",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " events",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "3cc8e8e7-e92b-4a97-9a53-fd5fcebf07d1",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "movies",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " I see ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c51d07ec-1d15-4707-9d64-21f70920a7e8",
+    "data": [
+      {
+        "text": "is ",
+        "userDefined": false
+      },
+      {
+        "text": "Madonna",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": true
+      },
+      {
+        "text": " performing ",
+        "userDefined": false
+      },
+      {
+        "text": "this month",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "SF",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e617b09b-d26e-4fbf-92bb-c55fc9b8c3ee",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "movies",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "The Cinemark Theatre in Helena",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "e5811fc1-9577-407a-88b9-f2ce0abf9fc5",
+    "data": [
+      {
+        "text": "is there a ",
+        "userDefined": false
+      },
+      {
+        "text": "baseball game",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "town",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tonight",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "24a10840-1f0e-4785-84d5-bbf99ffce86a",
+    "data": [
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " there ",
+        "userDefined": false
+      },
+      {
+        "text": "any",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " going ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Chicago",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tonight",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c478afcd-3200-4d46-91ee-be4a9d8737e2",
+    "data": [
+      {
+        "text": "what shows are playing in ",
+        "userDefined": false
+      },
+      {
+        "text": "Hamilton",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "bf7c3f63-a8a0-4b98-bca9-5a423fae6527",
+    "data": [
+      {
+        "text": "movies",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Redding California",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c07a6047-b724-4308-b4f6-c8b3291f9eb3",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " playing in ",
+        "userDefined": false
+      },
+      {
+        "text": "Cleveland Ohio",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "July 17th",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "05b37edd-a294-4dcc-80f9-b2f62b51e592",
+    "data": [
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " there ",
+        "userDefined": false
+      },
+      {
+        "text": "any",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " coming ",
+        "userDefined": false
+      },
+      {
+        "text": "up",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "75f081ff-f106-44ce-97f5-d285fb772f34",
+    "data": [
+      {
+        "text": "could",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you find ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "band concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Newport",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f0571889-3302-4543-b080-83690a28cabd",
+    "data": [
+      {
+        "text": "Bruno Mars",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Kansas",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "586f262c-eac8-4271-84d2-30c504598d4c",
+    "data": [
+      {
+        "text": "any ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Moscow",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a82e4f3c-3bfc-4e6b-8da7-6e72cdb7da33",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in my area",
+        "alias": "sort",
+        "meta": "@map-sort",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9bed21aa-ef25-481b-bee3-f03157d13b19",
+    "data": [
+      {
+        "text": "look for ",
+        "userDefined": false
+      },
+      {
+        "text": "Maddona",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "next week",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Moscow",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "aeb1b15a-61a7-4ef9-986e-451d5ef1345b",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "movies",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " playing ",
+        "userDefined": false
+      },
+      {
+        "text": "nearby",
+        "alias": "sort",
+        "meta": "@map-sort",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b5c7fdc-4504-4fd8-99d5-f13e375ce584",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "festivals",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " taking place ",
+        "userDefined": false
+      },
+      {
+        "text": "this weekend",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "88715e74-fe4e-4ab2-8e3e-5b80bd1f9cca",
+    "data": [
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da7b6cf8-64e5-4e2a-8007-0453f7d3a720",
+    "data": [
+      {
+        "text": "any",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "interesting",
+        "alias": "sort",
+        "meta": "@map-sort",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "exhibitions",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f2e268c-46c1-4b21-b9f1-f267d06e32f1",
+    "data": [
+      {
+        "text": "find me ",
+        "userDefined": false
+      },
+      {
+        "text": "Adele",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "887319a6-b817-4426-94bc-27a8db567d38",
+    "data": [
+      {
+        "text": "Chicago",
+        "alias": "event-title",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "musical",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "336b12bb-f65f-4775-87d4-ae0081c7b564",
+    "data": [
+      {
+        "text": "any ",
+        "userDefined": false
+      },
+      {
+        "text": "interesting",
+        "alias": "sort",
+        "meta": "@map-sort",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "exhibitions",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Paris",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2606c662-e4e5-4eca-ac9d-198998dadef0",
+    "data": [
+      {
+        "text": "movies",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tonight",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8f3365fa-4086-479f-970d-6668ec9f92a0",
+    "data": [
+      {
+        "text": "do you know of ",
+        "userDefined": false
+      },
+      {
+        "text": "any",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Miami",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " for the ",
+        "userDefined": false
+      },
+      {
+        "text": "coming months",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8840ab5f-c815-4a5d-baa6-b3fe3dd95a6b",
+    "data": [
+      {
+        "text": "show me ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " going ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "New Orleans",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tonight",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6883752b-b9a5-4004-afe6-ee5101beb252",
+    "data": [
+      {
+        "text": "what\u0027s",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " going ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "008ffa99-7181-4c2c-86e4-f71e0ed766f9",
+    "data": [
+      {
+        "text": "are there any events ",
+        "userDefined": false
+      },
+      {
+        "text": "nearby",
+        "alias": "sort",
+        "meta": "@map-sort",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ea4c56b-0492-4707-a427-ada1fd9e2651",
+    "data": [
+      {
+        "text": "when will ",
+        "userDefined": false
+      },
+      {
+        "text": "Bruno Mars",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027 ",
+        "userDefined": false
+      },
+      {
+        "text": "concert",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": false
+      },
+      {
+        "text": " take place in ",
+        "userDefined": false
+      },
+      {
+        "text": "New Hampshire Twickenham Stadium",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "5249dc26-d1d2-4ba0-ba72-f516833d5c6f",
+    "data": [
+      {
+        "text": "open-air festival",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "576423cc-94c8-4422-a410-7223df5b2d97",
+    "data": [
+      {
+        "text": "what\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "s",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " playing at the ",
+        "userDefined": false
+      },
+      {
+        "text": "nearest",
+        "alias": "sort",
+        "meta": "@map-sort",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "movie theater",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b087136-6988-4629-9e44-b7ae5c58c674",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "movies",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " playing ",
+        "userDefined": false
+      },
+      {
+        "text": "tonight",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "69eee38b-95f6-45a3-9eac-745ba91a51e0",
+    "data": [
+      {
+        "text": "find shows for ",
+        "userDefined": false
+      },
+      {
+        "text": "Paramore",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "next weekend",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Mountain View, California",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "9e3bd739-7ff4-4e42-b275-8ec06bac9889",
+    "data": [
+      {
+        "text": "Legion of Honor",
+        "alias": "event-title",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "exhibition",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "SF",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "27f1f6cc-e24e-42f4-8e34-e6336105101f",
+    "data": [
+      {
+        "text": "are there any ",
+        "userDefined": false
+      },
+      {
+        "text": "competitions",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": "/events going on in the ",
+        "userDefined": false
+      },
+      {
+        "text": "ski resort",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "90dd9c6f-99d2-4585-96f7-b2b21be12985",
+    "data": [
+      {
+        "text": "when is ",
+        "userDefined": false
+      },
+      {
+        "text": "Santana",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": true
+      },
+      {
+        "text": " coming in ",
+        "userDefined": false
+      },
+      {
+        "text": "concert",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "Darien Lake",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4181e330-5699-4eb3-9d8e-c9f816da38e6",
+    "data": [
+      {
+        "text": "I\u0027m looking for shows in ",
+        "userDefined": false
+      },
+      {
+        "text": "Texas",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " for the ",
+        "userDefined": false
+      },
+      {
+        "text": "next two weeks",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "29170be9-c072-4ecb-8cce-17488a11a2ee",
+    "data": [
+      {
+        "text": "clothes exhibition",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Bhubaneswar",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c565e6b-ec49-4bf9-91c0-f98ef7deb563",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "will",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " there be held in ",
+        "userDefined": false
+      },
+      {
+        "text": "Kuwait",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f90ddabe-eb93-4ab8-92f2-884d4a9b54b4",
+    "data": [
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98e711ea-8cfc-4acc-af01-645704945a08",
+    "data": [
+      {
+        "text": "I want you to tell me what ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " are coming up at the ",
+        "userDefined": false
+      },
+      {
+        "text": "State fair in Indiana",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 14,
+    "updated": 0
+  },
+  {
+    "id": "984a048f-a585-4b83-8deb-7884d927092b",
+    "data": [
+      {
+        "text": "where is ",
+        "userDefined": false
+      },
+      {
+        "text": "Ariana Grande",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "next",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "concert",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "58f9c534-04ae-48ee-b6f8-49c0e9db2b98",
+    "data": [
+      {
+        "text": "what\u0027s playing at ",
+        "userDefined": false
+      },
+      {
+        "text": "The Parkside Drive Inn in Maryville Tennessee",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tonight",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a3bd47ce-00d2-42c1-b679-0c585617fb58",
+    "data": [
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "Klipsch Music Center Noblesville Indianapolis Indiana",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ac04f33-70d0-4687-9c2e-f32bcf03bb4d",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Alicia Keys",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Bethel",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "next week",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ebd43ef6-7b12-49cb-ae3c-0aa68c5aafdf",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "movies",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " are out in ",
+        "userDefined": false
+      },
+      {
+        "text": "theaters",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "right now",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42dd4e8a-7227-42d8-9473-e0cf5f4609a8",
+    "data": [
+      {
+        "text": "events",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4793a7f2-8d53-4707-93ef-37925898325b",
+    "data": [
+      {
+        "text": "movies",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in my city",
+        "alias": "sort",
+        "meta": "@map-sort",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bffbbbc2-4471-465b-bf9f-1d9a3661b58c",
+    "data": [
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " there ",
+        "userDefined": false
+      },
+      {
+        "text": "any",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "music concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Los Angeles",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tonight",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c507e5f-3b31-4a18-be23-cfbb600b7973",
+    "data": [
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " you search for the ",
+        "userDefined": false
+      },
+      {
+        "text": "latest",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "movie",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3838c52a-7aea-4f84-8aae-bd97a799ee8e",
+    "data": [
+      {
+        "text": "I\u0027d like to go to a ",
+        "userDefined": false
+      },
+      {
+        "text": "drake",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "concert",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22c56197-a8b3-4607-ad29-8ce8e56e18e8",
+    "data": [
+      {
+        "text": "information",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bieber",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "concert",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5910c637-f1f9-45cc-a2c2-757d6fee9e42",
+    "data": [
+      {
+        "text": "festivals",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in this area",
+        "alias": "sort",
+        "meta": "@map-sort",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "this weekend",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e0eb20f6-1daf-43b5-9b0f-20c2428557eb",
+    "data": [
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " there ",
+        "userDefined": false
+      },
+      {
+        "text": "any",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "festivals",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " going ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tonight",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Cincinnati Ohio",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9fedd8fb-3298-4cfe-a0f3-8808638d31f2",
+    "data": [
+      {
+        "text": "when are ",
+        "userDefined": false
+      },
+      {
+        "text": "Atlanta Braves",
+        "alias": "team",
+        "meta": "@sport-team",
+        "userDefined": false
+      },
+      {
+        "text": " playing in ",
+        "userDefined": false
+      },
+      {
+        "text": "LA",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f3b3a07d-bbdb-4d02-9dd9-0707ecc045e3",
+    "data": [
+      {
+        "text": "look for ",
+        "userDefined": false
+      },
+      {
+        "text": "this week",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Brooklyn Steel New York",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Nick Cave",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "272a166a-ec1e-41ff-bdc8-e3adf1ab332b",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Cold Play",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Raleigh",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c385764e-1eb1-400e-82c7-1273d93ea308",
+    "data": [
+      {
+        "text": "what\u0027s playing at the ",
+        "userDefined": false
+      },
+      {
+        "text": "movie theater",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "baa74a0c-013e-4f56-a3db-498134c595e4",
+    "data": [
+      {
+        "text": "I\u0027m looking for ",
+        "userDefined": false
+      },
+      {
+        "text": "Ed Sheeran",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "916aa514-4319-4806-81d0-f374f8198662",
+    "data": [
+      {
+        "text": "is there ",
+        "userDefined": false
+      },
+      {
+        "text": "any",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "movies",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Star Trek",
+        "alias": "event-title",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d2229d8c-9421-442e-a0b6-4ab55fa54f21",
+    "data": [
+      {
+        "text": "local",
+        "alias": "sort",
+        "meta": "@map-sort",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "festivals",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa7f81a0-e4a9-4fdc-ac06-9990d85ce1bc",
+    "data": [
+      {
+        "text": "what\u0027s",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " happening ",
+        "userDefined": false
+      },
+      {
+        "text": "this weekend",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9b1a575-8896-497f-a9c2-ba160ba73a77",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "movies",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " playing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd3e9d5e-6b08-49e5-9386-a7071baa0081",
+    "data": [
+      {
+        "text": "conference",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "301d722f-85fa-44f9-98de-8031736fa510",
+    "data": [
+      {
+        "text": "I\u0027m in the mood for some ",
+        "userDefined": false
+      },
+      {
+        "text": "stand-up comedy",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1b4adfe-7c15-4ded-9e86-efb61fa160b4",
+    "data": [
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7aba372b-1063-4f47-81f1-b60f28cafcbc",
+    "data": [
+      {
+        "text": "opera performances",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "Bolshoi Theatre",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c2b1bb96-6294-4625-954f-4c326b5779a6",
+    "data": [
+      {
+        "text": "jazz",
+        "alias": "music-genre",
+        "meta": "@sys.music-genre",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tonight",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "14a4cc08-6fb5-41ea-a1e4-dc0ec33dfea9",
+    "data": [
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "Demi Lavato",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "80abfde3-b401-49ca-997e-0c289cbc701d",
+    "data": [
+      {
+        "text": "Hall Green",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " search ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65357e76-8c1c-4993-959b-93360657359e",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "movies",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tonight",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b8f6b99-e893-49ee-adf4-186c8d870962",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in town ",
+        "userDefined": false
+      },
+      {
+        "text": "tonight",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9d9921cc-25ed-4655-aab2-c486ebee4b71",
+    "data": [
+      {
+        "text": "I am looking for ",
+        "userDefined": false
+      },
+      {
+        "text": "Madonna\u0027s",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "7th April",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "concert",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "San Francisco",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2be1ad5e-d791-4da4-ba91-71e9abc3b96b",
+    "data": [
+      {
+        "text": "American homeopathic",
+        "alias": "event-title",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "conference",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d52eaba6-3ff3-45df-b968-d5b2c39e9638",
+    "data": [
+      {
+        "text": "is there ",
+        "userDefined": false
+      },
+      {
+        "text": "any",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " going ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "around here",
+        "alias": "sort",
+        "meta": "@map-sort",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c9dc2a93-1828-4479-90ba-677d7875f470",
+    "data": [
+      {
+        "text": "when is the ",
+        "userDefined": false
+      },
+      {
+        "text": "next",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Black Veil Brides",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e0278429-98c1-4b2c-979b-6d75ac2b6e39",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "movies",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "theaters",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04b7af90-3ef3-48b2-8903-cfef92c655fd",
+    "data": [
+      {
+        "text": "when",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "Depeche Mode",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " playing in ",
+        "userDefined": false
+      },
+      {
+        "text": "LA",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ff9d3429-5c81-4aa7-8d6b-b9a251e4b90b",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Coldplay",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": true
+      },
+      {
+        "text": " at the ",
+        "userDefined": false
+      },
+      {
+        "text": "Rose Bowl",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "50409d6a-0c56-4360-a42f-876a63157bca",
+    "data": [
+      {
+        "text": "date for ",
+        "userDefined": false
+      },
+      {
+        "text": "Neil Diamond",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Detroit",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "concert",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a98ae42-f905-4e8f-b03b-c0e88a12e3b3",
+    "data": [
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Santa Monica",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "July 7th",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67f59e6f-7c96-4165-8d63-2b6e37e9d40e",
+    "data": [
+      {
+        "text": "free",
+        "alias": "sort",
+        "meta": "@map-sort",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Indianapolis State Fair",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d3d504ee-fa18-4661-95ff-5aa692315e4c",
+    "data": [
+      {
+        "text": "what is played at the ",
+        "userDefined": false
+      },
+      {
+        "text": "theater",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e31a10dc-1f0c-428b-a530-6a77636f59f3",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "rock concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " coming ",
+        "userDefined": false
+      },
+      {
+        "text": "up",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Iowa",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3ba7302-4e06-46c3-a096-a6bf9d980c83",
+    "data": [
+      {
+        "text": "I",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " want ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "visit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Synthetic Sound Festival",
+        "alias": "event-title",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Moscow",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3cd37a6-84d7-4ce4-a45a-b56e6e7e44d9",
+    "data": [
+      {
+        "text": "any",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c9e29b7e-dc1b-4078-9a1e-f520f7bb0afd",
+    "data": [
+      {
+        "text": "find me ",
+        "userDefined": false
+      },
+      {
+        "text": "rap",
+        "alias": "music-genre",
+        "meta": "@sys.music-genre",
+        "userDefined": true
+      },
+      {
+        "text": " shows in ",
+        "userDefined": false
+      },
+      {
+        "text": "Durham",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4f224bca-e7d9-4056-87cb-cc6b625f9d35",
+    "data": [
+      {
+        "text": "show me the ",
+        "userDefined": false
+      },
+      {
+        "text": "cinema",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " program",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f40dca2f-f5f6-4e4d-9b45-b6a30ab3fd33",
+    "data": [
+      {
+        "text": "look for ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Indiana",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a7d8ae11-5d23-43c4-9f46-17c393548d47",
+    "data": [
+      {
+        "text": "when is ",
+        "userDefined": false
+      },
+      {
+        "text": "Mariah Carey",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "concert",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64eec813-aca0-4874-936a-e80c8f4c65ec",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "movies",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " playing in ",
+        "userDefined": false
+      },
+      {
+        "text": "theaters",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "right now",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "941fc876-776d-4f6d-8f58-d7bd156a9508",
+    "data": [
+      {
+        "text": "wine festivals",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Maryland",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "this month",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c877c15-4ae2-4422-94ce-457181e6af33",
+    "data": [
+      {
+        "text": "where will ",
+        "userDefined": false
+      },
+      {
+        "text": "Breaking Benjamin",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " be performing on ",
+        "userDefined": false
+      },
+      {
+        "text": "May 10 at 6:30 PM",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Chicago",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b63e0875-dab8-477a-a934-8f822b70c06b",
+    "data": [
+      {
+        "text": "all",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a0cff30e-d8b1-4966-94ba-c4ccbc165580",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "movies",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " playing in the ",
+        "userDefined": false
+      },
+      {
+        "text": "movie theater",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31e1589c-9f9b-4ecf-8056-28e06b468474",
+    "data": [
+      {
+        "text": "tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Saskatoon",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "633b046e-6ebf-4fe5-bd46-24cc6b8856ff",
+    "data": [
+      {
+        "text": "I want to go to ",
+        "userDefined": false
+      },
+      {
+        "text": "Moscow International Open Fitness Festival",
+        "alias": "event-title",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " event",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3dff2e96-eb06-48aa-befa-2ad3f2043c98",
+    "data": [
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "around me",
+        "alias": "sort",
+        "meta": "@map-sort",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a335e76-0e01-4bb5-82c2-2df985d50369",
+    "data": [
+      {
+        "text": "adult movies",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cinemas",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ca8100e2-6e04-4468-9f1e-9287eb36f0de",
+    "data": [
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " there ",
+        "userDefined": false
+      },
+      {
+        "text": "any",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "this weekend",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Atlanta",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9cdda30-f28d-4378-9e9d-e51a562b19b1",
+    "data": [
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " there ",
+        "userDefined": false
+      },
+      {
+        "text": "any",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "nice",
+        "alias": "sort",
+        "meta": "@map-sort",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "festivals",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "time",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "from 30th of July 22nd of August",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7967e8fa-4e04-47f8-a79c-b88d957d6500",
+    "data": [
+      {
+        "text": "are there any ",
+        "userDefined": false
+      },
+      {
+        "text": "competitions",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " going on in the ",
+        "userDefined": false
+      },
+      {
+        "text": "ski resort",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ff1731c-9345-4066-b09a-a924da580084",
+    "data": [
+      {
+        "text": "Neil Diamond",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "concert tour",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " dates for ",
+        "userDefined": false
+      },
+      {
+        "text": "Detroit Michigan",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1de7f20-49f5-4e89-8930-21f31e73bf4a",
+    "data": [
+      {
+        "text": "show me what ",
+        "userDefined": false
+      },
+      {
+        "text": "movies",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " are playing at ",
+        "userDefined": false
+      },
+      {
+        "text": "Movie Tavern in Tucker",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "934f427f-c36d-40f4-b4e6-ae8a08f3eddb",
+    "data": [
+      {
+        "text": "Adele",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "cd57abd5-9d0a-4a66-9c31-a8ecc83426a0",
+    "data": [
+      {
+        "text": "upcoming",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "festivals",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "India",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f27d533-7f17-467e-b6d3-035fc659cc3c",
+    "data": [
+      {
+        "text": "show me events on ",
+        "userDefined": false
+      },
+      {
+        "text": "Saturday",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "867822bb-f132-4346-8363-f8bc502b80f9",
+    "data": [
+      {
+        "text": "is there ",
+        "userDefined": false
+      },
+      {
+        "text": "any",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "music festivals",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "around my area",
+        "alias": "sort",
+        "meta": "@map-sort",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3f0aa01-bd01-417b-a77f-4de4575500d6",
+    "data": [
+      {
+        "text": "Bellevue Park",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "band concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "90110d47-a44a-4deb-91af-7031507da078",
+    "data": [
+      {
+        "text": "could you find me band ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Newport",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3f68233-8e7b-4df0-9f2c-5c2d2ba52323",
+    "data": [
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f353e14f-8124-4ca0-b95d-b84505f31a96",
+    "data": [
+      {
+        "text": "is there any ",
+        "userDefined": false
+      },
+      {
+        "text": "concert",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d823cc5f-b35f-4a40-9d58-cfac3dbc218a",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe893039-f6a3-4c4c-9ab5-fedcea1dc05a",
+    "data": [
+      {
+        "text": "concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Friday",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e788987-083a-460e-a068-b10530d7f34c",
+    "data": [
+      {
+        "text": "movies",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Huntington west virginia",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "81fe613d-c60f-40fa-9771-912459300e1c",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Cold Play",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": true
+      },
+      {
+        "text": " at the ",
+        "userDefined": false
+      },
+      {
+        "text": "Rose Bowl",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "240754c3-eedc-470a-9374-2c52991e4cd7",
+    "data": [
+      {
+        "text": "now",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " look for ",
+        "userDefined": false
+      },
+      {
+        "text": "band concerts",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Newport",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "da318f6b-9267-480b-a731-cfe36c170bfb",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "movies",
+        "alias": "event-type",
+        "meta": "@event-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " playing ",
+        "userDefined": false
+      },
+      {
+        "text": "in the area",
+        "alias": "sort",
+        "meta": "@map-sort",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

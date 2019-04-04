@@ -1,0 +1,51 @@
+{
+  "id": "642ee7e1-79da-460e-b8ad-ebfe7fc88686",
+  "name": "Opening Times: AGLC Cafe",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9ed457d4-04ef-4cf4-ad69-43ff93094fa2",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "814591a4-8f4c-49db-92d7-e0850d81dab3",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "name": "last-name",
+          "value": "$last-name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "The Alan Gilbert Learning Commons Cafe is open 8AM-9PM on weekdays and 9AM-9PM on weekends"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551612292,
+  "fallbackIntent": false,
+  "events": []
+}

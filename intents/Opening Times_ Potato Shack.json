@@ -1,0 +1,34 @@
+{
+  "id": "f4098adb-ecf8-4185-8c06-8d077a549551",
+  "name": "Opening Times: Potato Shack",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Potato Shack is open 11AM-4PM on weekdays. This Cafe is closed on weekends"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551611688,
+  "fallbackIntent": false,
+  "events": []
+}

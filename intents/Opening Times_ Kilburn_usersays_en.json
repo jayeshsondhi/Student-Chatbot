@@ -1,0 +1,62 @@
+[
+  {
+    "id": "951a4b81-b082-430c-9b05-b6938ec9c8f5",
+    "data": [
+      {
+        "text": "Is the comp sci building open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551455711
+  },
+  {
+    "id": "5d1be7db-80da-418e-87cb-7565ec4ba38b",
+    "data": [
+      {
+        "text": "Is Kilburn open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551455711
+  },
+  {
+    "id": "026e994c-373b-4ef3-8150-c6bdf5f80e9b",
+    "data": [
+      {
+        "text": "When does Kilburn Building close?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551455711
+  },
+  {
+    "id": "439a278b-6c1a-46b1-8a22-16ddde8f9e28",
+    "data": [
+      {
+        "text": "When does Kilburn open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551455711
+  },
+  {
+    "id": "95eb163d-a15a-4648-a394-9b05c90e5af7",
+    "data": [
+      {
+        "text": "Is Computer Science building open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551455711
+  }
+]

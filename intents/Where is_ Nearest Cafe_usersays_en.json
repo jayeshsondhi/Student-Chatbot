@@ -1,0 +1,108 @@
+[
+  {
+    "id": "52ee8c95-3bcb-4e06-b584-d434c9d7a8ac",
+    "data": [
+      {
+        "text": "Where is cafe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1551613445
+  },
+  {
+    "id": "50b4c46f-a678-49c6-bb93-19391ddfba17",
+    "data": [
+      {
+        "text": "How do I get to the closest cafe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551613255
+  },
+  {
+    "id": "ba33d9e4-2fa6-4d84-b868-5295e941d442",
+    "data": [
+      {
+        "text": "How do I get to the nearest cafe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551613255
+  },
+  {
+    "id": "d0f532a4-e140-4c76-8e13-54f3543333b4",
+    "data": [
+      {
+        "text": "nearest cafe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551613255
+  },
+  {
+    "id": "0009dbf6-bbcd-4cf0-aac0-540c00b62c86",
+    "data": [
+      {
+        "text": "Where is the closest cafe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551613176
+  },
+  {
+    "id": "4d2880ba-8528-452f-94a4-6c8ebb7ee7f4",
+    "data": [
+      {
+        "text": "Where can I get ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551613176
+  },
+  {
+    "id": "e0a62dc6-373e-43f6-8a5b-b44c4d5770d3",
+    "data": [
+      {
+        "text": "Closest Cafe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551613176
+  },
+  {
+    "id": "f6836560-e369-4b47-81b1-8954d3f446f8",
+    "data": [
+      {
+        "text": "Where is the nearest cafe to me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551613176
+  }
+]

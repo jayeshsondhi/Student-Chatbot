@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1ec42ad9-bc67-4b5b-b0eb-80107974153a",
+    "data": [
+      {
+        "text": "Where\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "Stopford Building",
+        "alias": "University_Building_Names",
+        "meta": "@University_Building_Names",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551703865
+  },
+  {
+    "id": "f4d7429f-6e78-4be6-8312-6bc1d2478f59",
+    "data": [
+      {
+        "text": "Where is ",
+        "userDefined": false
+      },
+      {
+        "text": "Stopford",
+        "alias": "University_Building_Names",
+        "meta": "@University_Building_Names",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551703865
+  }
+]

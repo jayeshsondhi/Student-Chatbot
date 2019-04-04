@@ -1,0 +1,34 @@
+{
+  "id": "278f404a-cfcd-4c16-89d3-2c62a5a543e5",
+  "name": "Opening Times: Byte Cafe",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "The Byte Cafe is open 9AM-3:30PM on weekdays"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551557571,
+  "fallbackIntent": false,
+  "events": []
+}

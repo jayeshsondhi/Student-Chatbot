@@ -1,0 +1,145 @@
+[
+  {
+    "id": "06ef2e2f-2665-4f4a-91bb-4515aef88103",
+    "data": [
+      {
+        "text": "When does ",
+        "userDefined": false
+      },
+      {
+        "text": "Alliance Manchester Business School",
+        "alias": "University_Building_Names",
+        "meta": "@University_Building_Names",
+        "userDefined": false
+      },
+      {
+        "text": " open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4c11d6ce-9917-46e3-9b23-fe9ded314979",
+    "data": [
+      {
+        "text": "What time does ",
+        "userDefined": false
+      },
+      {
+        "text": "Alliance Manchester Business School",
+        "alias": "University_Building_Names",
+        "meta": "@University_Building_Names",
+        "userDefined": false
+      },
+      {
+        "text": " close?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6d92d632-54e5-480a-a4f8-76c51cda7a2e",
+    "data": [
+      {
+        "text": "What time does ",
+        "userDefined": false
+      },
+      {
+        "text": "AMBS",
+        "alias": "University_Building_Names",
+        "meta": "@University_Building_Names",
+        "userDefined": false
+      },
+      {
+        "text": " close?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0538d600-455d-4bcb-ab89-1131f5f7ca95",
+    "data": [
+      {
+        "text": "When is ",
+        "userDefined": false
+      },
+      {
+        "text": "AMBS",
+        "alias": "University_Building_Names",
+        "meta": "@University_Building_Names",
+        "userDefined": false
+      },
+      {
+        "text": " open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7ea36163-e53b-4e2e-8009-e9abeb12f814",
+    "data": [
+      {
+        "text": "When is Manchester Business School open",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "alias": "age",
+        "meta": "@sys.age",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "236d8ca9-8d40-4c28-ac28-4eaea9245cd0",
+    "data": [
+      {
+        "text": "What time is ",
+        "userDefined": false
+      },
+      {
+        "text": "Manchester Business School",
+        "alias": "University_Building_Names",
+        "meta": "@University_Building_Names",
+        "userDefined": false
+      },
+      {
+        "text": " open till?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c92d19ce-1f19-4ce2-b462-58eb1a234faf",
+    "data": [
+      {
+        "text": "what time is ",
+        "userDefined": false
+      },
+      {
+        "text": "MBS",
+        "alias": "University_Building_Names",
+        "meta": "@University_Building_Names",
+        "userDefined": false
+      },
+      {
+        "text": " open till?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

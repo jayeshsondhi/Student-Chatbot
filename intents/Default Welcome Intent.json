@@ -1,0 +1,48 @@
+{
+  "id": "73cb66fc-acf7-4b33-8f5a-5d28aa06e224",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Hello, my name is Alfie. I\u0027ve been designed to help answer your questions. I can advise you on how to travel to lectures, where cafes or University buildings are and what their opening times are. I can also help you in case you lose your student card! Click an option to get started....",
+          "replies": [
+            "Where is?",
+            "Transport",
+            "Lost My Student Card",
+            "Key Dates",
+            "Opening Times"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536145665,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "FACEBOOK_WELCOME"
+    }
+  ]
+}

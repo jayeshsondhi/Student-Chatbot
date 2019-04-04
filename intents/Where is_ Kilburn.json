@@ -1,0 +1,49 @@
+{
+  "id": "62eab342-7ae9-44ec-9257-c0e29a6bc54c",
+  "name": "Where is: Kilburn",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d30b9dbf-a2b8-4e56-8a8b-b185865b0355",
+          "required": false,
+          "dataType": "@University_Building_Names",
+          "name": "University_Building_Names",
+          "value": "$University_Building_Names",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://pgrschoolofeducation.files.wordpress.com/2012/07/roscoe-building-number-53-image.png"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Kilburn Building is located on Booth Street West. Building 39 on the map indicates where the building is."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551704174,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "a1629968-5e20-4254-848b-37115f401424",
+    "data": [
+      {
+        "text": "Is the business school library closed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551396767
+  },
+  {
+    "id": "e76082b1-771f-4783-a1cc-2fbc82e10710",
+    "data": [
+      {
+        "text": "when does the business school library open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551396767
+  },
+  {
+    "id": "b155cd59-63f0-46ae-9481-c00766f96d86",
+    "data": [
+      {
+        "text": "Is the business school library open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551396767
+  },
+  {
+    "id": "7a9b8ff5-68a5-446a-8278-d183e1b98b20",
+    "data": [
+      {
+        "text": "Is the ",
+        "userDefined": false
+      },
+      {
+        "text": "Eddie",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " Davies library open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551396767
+  },
+  {
+    "id": "18d45ef8-8bce-4336-a869-2e6b32671046",
+    "data": [
+      {
+        "text": "What time does the ",
+        "userDefined": false
+      },
+      {
+        "text": "Eddie",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Davies",
+        "alias": "last-name",
+        "meta": "@sys.last-name",
+        "userDefined": false
+      },
+      {
+        "text": " library close ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551396767
+  },
+  {
+    "id": "354b5c9c-1ef1-464b-b0dd-9579043c4a0d",
+    "data": [
+      {
+        "text": "What time is the ",
+        "userDefined": false
+      },
+      {
+        "text": "Eddie",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " Davies library open till ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551396767
+  }
+]

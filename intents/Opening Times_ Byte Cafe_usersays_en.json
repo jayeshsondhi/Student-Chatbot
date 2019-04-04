@@ -1,0 +1,62 @@
+[
+  {
+    "id": "de84c051-5d70-4a78-92a3-8965c116fd9c",
+    "data": [
+      {
+        "text": "Is the Kilburn building cafe open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551557571
+  },
+  {
+    "id": "12790d61-82f5-458e-922c-27f7918e0d5d",
+    "data": [
+      {
+        "text": "Is the computer science cafe open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551557571
+  },
+  {
+    "id": "9dee77d5-fb5a-4f70-9f21-8bbca4107619",
+    "data": [
+      {
+        "text": "When does Byte cafe close?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551557533
+  },
+  {
+    "id": "8d8afc54-9c5a-42d9-b845-a267bf78559c",
+    "data": [
+      {
+        "text": "Is Byte Cafe open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551557533
+  },
+  {
+    "id": "1d156672-d9be-49ae-9dcc-462f41d1a635",
+    "data": [
+      {
+        "text": "What time is Byte Cafe open till?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551557533
+  }
+]

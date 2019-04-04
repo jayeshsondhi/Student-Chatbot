@@ -1,0 +1,33 @@
+{
+  "id": "e7a41c5c-09bd-483d-a287-caac426ea20b",
+  "parentId": "7cb43e1c-45c9-4057-899c-cad08efced02",
+  "rootParentId": "8dbcc44f-2020-4b6c-a85b-3c3ad767f54c",
+  "name": "events.search - select.number - later",
+  "auto": true,
+  "contexts": [
+    "eventssearch-selectnumber-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "events.tickets.purchase.later",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "No problem. Let me search something else for you. What events are you interested in?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500312291928,
+  "fallbackIntent": false,
+  "events": []
+}

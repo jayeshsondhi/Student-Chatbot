@@ -1,0 +1,59 @@
+{
+  "id": "9a429637-5c69-4519-9512-eb0ccf6e9b3c",
+  "name": "Opening Times: Eddie Davies Library",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5d465270-4ff2-46f1-834e-db06b15f5311",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "c45036b7-9e8c-4dbc-a1d3-49660b4bbde5",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        },
+        {
+          "id": "101ba5bb-d46f-410a-b355-44c4ec0743b1",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "name": "last-name",
+          "value": "$last-name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "The Eddie Davies Library is open 8AM to 6PM  on weekdays. This library is closed on weekends"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551444474,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": "1e47f503-ecdc-4dd8-8465-cc7c0ac4af6d",
+  "name": "Opening Times: The Mill",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "The Mill restaurant is open 11:30AM-2:30PM on weekdays"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551612473,
+  "fallbackIntent": false,
+  "events": []
+}

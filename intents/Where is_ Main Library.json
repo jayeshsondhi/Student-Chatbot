@@ -1,0 +1,40 @@
+{
+  "id": "ebad729a-3ad9-4084-84ec-43287e94cb87",
+  "name": "Where is: Main Library",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://pgrschoolofeducation.files.wordpress.com/2012/07/roscoe-building-number-53-image.png"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "The Main Library is located on Oxford Road. Building 55 on the map indicates where the building is."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551445194,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,60 @@
+{
+  "id": "7cb43e1c-45c9-4057-899c-cad08efced02",
+  "parentId": "8dbcc44f-2020-4b6c-a85b-3c3ad767f54c",
+  "rootParentId": "8dbcc44f-2020-4b6c-a85b-3c3ad767f54c",
+  "name": "events.search - select.number",
+  "auto": true,
+  "contexts": [
+    "eventssearch-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "events.select.number",
+      "affectedContexts": [
+        {
+          "name": "eventssearch-selectnumber-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "afdc568c-21d2-4a0f-9eec-b7f76ac3cf3c",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": true
+        },
+        {
+          "id": "92c16358-eed8-49ed-a91e-20b72676e6a2",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "amount",
+          "value": "$amount",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How many of you are going?"
+            }
+          ]
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Like it? Ready to book tickets?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508359228,
+  "fallbackIntent": false,
+  "events": []
+}

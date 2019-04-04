@@ -1,0 +1,43 @@
+{
+  "id": "34efad0b-37d5-4b3e-935b-0ee738695a7b",
+  "name": "Opening Times: Black Milk",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ad3d3668-62d0-40ef-9304-dfdd5919782f",
+          "required": false,
+          "dataType": "@sys.color",
+          "name": "color",
+          "value": "$color",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Black Milk Cafe is open 9AM-7PM on weekdays. This cafe is closed on weekends"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551629137,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,49 @@
+{
+  "id": "35aa4402-a4fa-42fd-af6e-424b6bcbf49b",
+  "name": "Where is: MBS",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fbb7eda3-fb8b-41b9-a477-bb4e30de497e",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://pgrschoolofeducation.files.wordpress.com/2012/07/roscoe-building-number-53-image.png"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "The Alliance Manchester Business School is located on Booth Street West. Building 29 on the map indicates where the building is."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551446428,
+  "fallbackIntent": false,
+  "events": []
+}

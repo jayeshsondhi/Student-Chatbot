@@ -1,0 +1,48 @@
+{
+  "id": "baa59d2a-84da-4462-824e-e1f58a377057",
+  "name": "When does Alliance Manchester Business School open?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d46b9c5c-f522-4d0c-955a-6259943b6792",
+          "dataType": "@University_Building_Names",
+          "name": "University_Building_Names",
+          "value": "$University_Building_Names",
+          "isList": false
+        },
+        {
+          "id": "b74c0a60-686e-42d2-a67d-5321c670813c",
+          "dataType": "@sys.age",
+          "name": "age",
+          "value": "$age",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "The Alliance Manchester Business School is open 8AM-8PM on weekdays. This building is closed on weekends."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

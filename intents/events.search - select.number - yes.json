@@ -1,0 +1,43 @@
+{
+  "id": "acb861e1-2761-4f36-801b-6ba4bf61e0b7",
+  "parentId": "7cb43e1c-45c9-4057-899c-cad08efced02",
+  "rootParentId": "8dbcc44f-2020-4b6c-a85b-3c3ad767f54c",
+  "name": "events.search - select.number - yes",
+  "auto": true,
+  "contexts": [
+    "eventssearch-selectnumber-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "events.tickets.purchase.confirm",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9fcd347c-8f0e-4c10-bbb3-75ccc8741c46",
+          "name": "amount",
+          "value": "#eventssearch-selectnumber-followup.amount",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Booked.",
+            "I\u0027ve booked $amount ticket(s) for you."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508359297,
+  "fallbackIntent": false,
+  "events": []
+}

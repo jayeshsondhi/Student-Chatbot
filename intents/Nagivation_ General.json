@@ -1,0 +1,54 @@
+{
+  "id": "59343753-893a-414b-8a28-90b467cbd4fa",
+  "name": "Nagivation: General",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "23d2fb3c-4143-4b74-9374-216922d03ea8",
+          "required": true,
+          "dataType": "@University_Building_Names",
+          "name": "University_Building_Names",
+          "value": "$University_Building_Names",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which location would you like to travel to?"
+            },
+            {
+              "lang": "en",
+              "value": "Where would you like to travel?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "$University_Building_Names is accessible via busses 142,143,147,41,42,42B,43. Depart the bus at the University bus station to arrive at your destination."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551634353,
+  "fallbackIntent": false,
+  "events": []
+}

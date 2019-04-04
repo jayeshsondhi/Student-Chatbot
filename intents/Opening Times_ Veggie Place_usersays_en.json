@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3ac90558-bbfb-49d5-a5c0-9e00d6ae9092",
+    "data": [
+      {
+        "text": "What time does Veggie Place close?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551557728
+  },
+  {
+    "id": "dc56f738-998e-4c58-8a7a-40253ae79f5b",
+    "data": [
+      {
+        "text": "Is Veggie Place still open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551557728
+  },
+  {
+    "id": "6d1fc054-fbaa-4690-a729-2e8c8d9198fd",
+    "data": [
+      {
+        "text": "What time is Veggie Place open till?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551557728
+  }
+]

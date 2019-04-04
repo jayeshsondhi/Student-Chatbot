@@ -1,0 +1,112 @@
+[
+  {
+    "id": "b422f3cf-399f-4f4f-9555-ffab5d03d897",
+    "data": [
+      {
+        "text": "How can I get to ",
+        "userDefined": false
+      },
+      {
+        "text": "MBS",
+        "alias": "University_Building_Names",
+        "meta": "@University_Building_Names",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551634353
+  },
+  {
+    "id": "d3e988b4-a96a-43e6-849b-6c56d94da279",
+    "data": [
+      {
+        "text": "What are the directions to ",
+        "userDefined": false
+      },
+      {
+        "text": "MBS",
+        "alias": "University_Building_Names",
+        "meta": "@University_Building_Names",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551634353
+  },
+  {
+    "id": "45c439de-b2f5-42e6-80cf-f7ed41824daf",
+    "data": [
+      {
+        "text": "The quickest way to ",
+        "userDefined": false
+      },
+      {
+        "text": "MBS",
+        "alias": "University_Building_Names",
+        "meta": "@University_Building_Names",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551634353
+  },
+  {
+    "id": "f2e82fc4-4cbc-402e-a689-35c983b97551",
+    "data": [
+      {
+        "text": "What bus do I catch to get to ",
+        "userDefined": false
+      },
+      {
+        "text": "MBS",
+        "alias": "University_Building_Names",
+        "meta": "@University_Building_Names",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551634353
+  },
+  {
+    "id": "0d6ef811-fa69-47d3-b1df-068e4a5069c6",
+    "data": [
+      {
+        "text": "How do I get to ",
+        "userDefined": false
+      },
+      {
+        "text": "MBS",
+        "alias": "University_Building_Names",
+        "meta": "@University_Building_Names",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551634353
+  }
+]

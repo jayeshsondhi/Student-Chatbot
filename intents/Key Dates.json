@@ -1,0 +1,50 @@
+{
+  "id": "cda4e590-30bc-4609-97c5-ac614d275b70",
+  "name": "Key Dates",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "69cde2d5-4124-4b7d-ab6f-485fd5f2b297",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "b6096615-6030-4763-870f-18609f338d0f",
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Take a look at the university key dates:\n\nSemester 1 starts: 17 September 2018\nReading week: 29 October-02 November 2018\nWinter graduation: 10–14 December 2018        \nChristmas break starts: 14 December 2018   \nChristmas break ends: 14 January 2019\nSemester 1 exams: 14–25 January 2019\nSemester 1 ends: 27 January 2019\nSemester 2 starts: 28 January 2019\nEaster break starts: 5 April 2019\nEaster break ends: 29 April 2019\nSemester 2 exams: 15 May–5 June 2019\nSemester 2 ends: 7 June 2019\nSummer graduation: 8–19 July 2019"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551637707,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": "14f4bdb4-6f41-4acb-9c93-5d7d97617da9",
+  "name": "Lost Student ID",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Please complete the online form to receive a new student ID - https://estore.manchester.ac.uk/product-catalogue/student-services-centre/replacement-for-lost-student-card/replacement-for-lost-student-card"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551635874,
+  "fallbackIntent": false,
+  "events": []
+}

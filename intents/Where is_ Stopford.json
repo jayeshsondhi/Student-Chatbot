@@ -1,0 +1,49 @@
+{
+  "id": "2ba4fdd9-51b5-459f-8e1d-ccbad2d7e9d9",
+  "name": "Where is: Stopford",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0fcda1ca-42f8-4866-a8af-d558728677e9",
+          "required": false,
+          "dataType": "@University_Building_Names",
+          "name": "University_Building_Names",
+          "value": "$University_Building_Names",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://pgrschoolofeducation.files.wordpress.com/2012/07/roscoe-building-number-53-image.png"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Stopford Building is located on Oxford Road. Building 79 on the map indicates where the building is."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551703967,
+  "fallbackIntent": false,
+  "events": []
+}

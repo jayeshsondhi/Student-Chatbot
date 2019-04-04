@@ -1,0 +1,33 @@
+{
+  "id": "93292ae5-9625-44b0-8364-d142312eef06",
+  "parentId": "7cb43e1c-45c9-4057-899c-cad08efced02",
+  "rootParentId": "8dbcc44f-2020-4b6c-a85b-3c3ad767f54c",
+  "name": "events.search - select.number - no",
+  "auto": true,
+  "contexts": [
+    "eventssearch-selectnumber-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "events.tickets.purchase.cancel",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "No problem. Let me search something else for you. What events are you interested in?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500312291921,
+  "fallbackIntent": false,
+  "events": []
+}
